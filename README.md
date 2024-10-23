@@ -1,4 +1,4 @@
-# Code for reproducing results from `An Interpolation Scheme for Closing Tracer Budget on Lagrangian Particle`
+# Code for reproducing results from `Tracer Budgets on Lagrangian Trajector`
 
 The majority of the codes that produced the result in the case studies are hosted in the python package [seaduck](https://github.com/MaceKuailv/seaduck). 
 
