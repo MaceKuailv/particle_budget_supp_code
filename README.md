@@ -7,3 +7,5 @@ The `dic` folder contains how to modify the MITgcm tutorial BGC run to get the n
 The `heat` folder contains how to create the anomaly budget from daily mean ECCO, which can be accessed via [ECCO home page](https://ecco-group.org/) or [sciserver](https://apps.sciserver.org). The backward simulation and the budget calculation is also included. 
 
 The aesthetics and plotting is done in the folder `james_plot`.
+
+The code for producing the schematics for Lagrangian budget is in the main directory. 
